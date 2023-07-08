@@ -11,6 +11,7 @@ nav{
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin: 0 200px;
 }
 .nav-title{
  align-items: center;
@@ -47,4 +48,18 @@ border:0;
 width: 150px;
 height: 64px;
 padding: 15px 35px;
+}
+.header{
+  background: #FFF8F3;
+}
+.banner{
+  padding:30px 30px 30px 150px;
+  display: flex;
+  align-items: center;
+
+
+}
+.banner-img{
+width: 300px;
+height: 400px;
 }
