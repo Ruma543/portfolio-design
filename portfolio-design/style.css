@@ -114,3 +114,14 @@ font-size: 18px;
 .about-info{
   text-align: center;
 }
+.info-title{
+  color: #757575;
+font-weight: 400;
+}
+.info-description{
+  color: #474747;
+font-weight: 400;
+}
+.skils-container{
+  display: flex;
+}
