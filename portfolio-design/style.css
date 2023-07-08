@@ -168,12 +168,27 @@ margin-bottom: 10px;
 /* footerm style */
 .footer-container{ 
   display: flex;
-  align-items: center;
-  justify-content: space-around;
+  gap: 100px;
   background-color: #FFF8F3;
   padding: 130px 230px;
   margin-top: 100px;
 }
+.footer-column{
+  width: 50%;
+}
 .form{
   display: block;
+}
+.form,input[type=text],textarea{
+  display: block;
+  margin-bottom: 25px;
+  color:#757575;
+  font-size: 16px;
+  border:0;
+  border-radius: 5px;
+  background-color: #FFF);
+  width: 100%;
+}
+.social-item>a>img{
+  margin-right: 40px;
 }
